@@ -9,4 +9,4 @@ redirect_from:
 
 I am a first-year Master student in Public Health at Peking University.
 You can find my VC here:[]
-Email
+[Email](mail to:gaokunyan25@stu.pku.edu.com)
