@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Kunyan Gao (高堃焱) "
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Peking University"
   location         : "Beijing，China"
   employer         : 
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://alissa0106.github.io/
+  email            : "gaokunyan25@stu.pku.edu.com" 
 
   # Academic websites
   academia         : # URL
