@@ -12,7 +12,7 @@ redirect_from:
 📍You can find my CV here:[Kunyan Gao's Curriculum Vitae](https://github.com/Alissa0106/Alissa0106.github.io/blob/master/assets/高堃焱简历.pdf)
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
-[README.md](https://github.com/user-attachments/files/24531261/README.md
+
 
 
 <h3 align="left">Connect with me:</h3>
