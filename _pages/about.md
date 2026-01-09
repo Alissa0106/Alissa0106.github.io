@@ -34,25 +34,25 @@ redirect_from:
 
 📚 Research Experience
 
-*🏥 Research on Hospital Informatization Construction in Beijing
+🏥 Research on Hospital Informatization Construction in Beijing
 *01/2024 - 05/2024*
 - Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
 - Cleaned and analyzed sample data with **SPSS 26.0** and **Excel 2019**.
 - Performed statistical analyses including **chi-square tests** and **Spearman's correlation** to identify key relationships.
 
-*📊 Big Health Data Sharing Mechanism Research
+📊 Big Health Data Sharing Mechanism Research
 *01/2024 - 05/2024*
 - Conducted a comprehensive literature review of **1200+ research papers** on health data sharing.
 - Organized **400+ articles** by themes: data sharing, cleaning, quality control, integration, and security.
 - Drafted 4 meeting summaries and contributed to literature review sections of project publications.
 
-*🔒 Healthcare Data Exit Status in Clinical Research
+🔒 Healthcare Data Exit Status in Clinical Research
 *01/2024 - 02/2024*
 - Collaborated on designing a comprehensive map of domestic healthcare data export pathways.
 - Coordinated with healthcare providers, data management teams, and policy makers.
 - Prepared detailed reports highlighting key nodes, bottlenecks, and regulatory checkpoints.
 
-*🧑‍⚕️ Medical Case Coders Work Status Survey
+🧑‍⚕️ Medical Case Coders Work Status Survey
 *10/2022 - 05/2023*
 - Designed and conducted a comprehensive survey of medical coders across Beijing hospitals.
 - Analyzed survey data using **EpiData** and **SPSS**, including descriptive and logistic regression analysis.
