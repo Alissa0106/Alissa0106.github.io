@@ -33,6 +33,7 @@ redirect_from:
 
 
 📚 Research Experience
+
 *🏥 Research on Hospital Informatization Construction in Beijing
 *01/2024 - 05/2024*
 - Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
