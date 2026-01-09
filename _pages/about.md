@@ -13,8 +13,8 @@ redirect_from:
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
-### Languages and Tools
-#### Programming & Statistical Analysis
+🛠️Languages and Tools
+**Programming & Statistical Analysis:**
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
@@ -31,8 +31,8 @@ redirect_from:
 *   **中文**：Native
 *   **English**：IELTS 6.5
 
-📚 Research Experience
 
+📚 Research Experience
 🏥 Research on Hospital Informatization Construction in Beijing
 *01/2024 - 05/2024*
 - Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
