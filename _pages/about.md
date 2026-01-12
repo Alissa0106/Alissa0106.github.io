@@ -13,7 +13,6 @@ redirect_from:
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
-<p style="font-size: 32px; font-weight: bold;">📃Research Experience</p>
 <h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">📃 Research Experience</h1>
 <hr style="border: none; border-top: 1px solid #ffffff; margin: 0 0 20px 0;">
 <h3 align="left">🏥Research on Hospital Informatization Construction in Beijing</h3> 
@@ -40,21 +39,18 @@ redirect_from:
 - Analyzed survey data using **EpiData** and **SPSS**, including descriptive and logistic regression analysis.
 - Reviewed **50+ scholarly articles** to inform survey design and data interpretation.
 
-<p style="font-size: 32px; font-weight: bold;">🖥️Connect with me</p>
-<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">📃 Research Experience</h1>
+<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">🖥️Connect with me</h1>
 <hr style="border: none; border-top: 1px solid #ffffff; margin: 0 0 20px 0;">
 <p align="left">
 <a href="https://github.com/Alissa0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alissa0106" height="30" width="40" /></a>
 </p>
 
-<p style="font-size: 32px; font-weight: bold;">📚Languages and Tools</p>
-<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">📃 Research Experience</h1>
+<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">📚Languages and Tools</h1>
 <hr style="border: none; border-top: 1px solid #ffffff; margin: 0 0 20px 0;">
 *   **中文**：Native
 *   **English**：IELTS 6.5
 
-<p style="font-size: 32px; font-weight: bold;">🛠️Programming & Statistical Analysis</p>
-<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">📃 Research Experience</h1>
+<h1 style="font-size: 32px; margin-bottom: 10px; color: #24292f;">🛠️Programming & Statistical Analysis</h1>
 <hr style="border: none; border-top: 1px solid #ffffff; margin: 0 0 20px 0;">
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
