@@ -14,7 +14,7 @@ redirect_from:
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
 <p style="font-size: 32px; font-weight: bold;">📃Research Experience</p>
----
+<hr style="border: none; border-top: 2px solid #333; margin: 20px 0;">
 <h3 align="left">🏥Research on Hospital Informatization Construction in Beijing</h3> 
 *01/2024 - 05/2024*
 - Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
@@ -40,18 +40,18 @@ redirect_from:
 - Reviewed **50+ scholarly articles** to inform survey design and data interpretation.
 
 <p style="font-size: 32px; font-weight: bold;">🖥️Connect with me</p>
----
+<hr style="border: none; border-top: 2px solid #333; margin: 20px 0;">
 <p align="left">
 <a href="https://github.com/Alissa0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alissa0106" height="30" width="40" /></a>
 </p>
 
 <p style="font-size: 32px; font-weight: bold;">📚Languages and Tools</p>
----
+<hr style="border: none; border-top: 2px solid #333; margin: 20px 0;">
 *   **中文**：Native
 *   **English**：IELTS 6.5
 
 <p style="font-size: 32px; font-weight: bold;">🛠️Programming & Statistical Analysis</p>
----
+<hr style="border: none; border-top: 2px solid #333; margin: 20px 0;">
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
