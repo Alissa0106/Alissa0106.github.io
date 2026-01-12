@@ -13,7 +13,7 @@ redirect_from:
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
-<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 1px solid #ffffff; padding-bottom: 10px;">📃 Research Experience</h1>
+<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">📃 Research Experience</h1>
 <h3 align="left">🏥Research on Hospital Informatization Construction in Beijing</h3> 
 *01/2024 - 05/2024*
 - Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
@@ -38,16 +38,15 @@ redirect_from:
 - Analyzed survey data using **EpiData** and **SPSS**, including descriptive and logistic regression analysis.
 - Reviewed **50+ scholarly articles** to inform survey design and data interpretation.
 
-<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 1px solid #ffffff; padding-bottom: 10px;">🖥️Connect with me</h1>
-<p align="left">
+<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">🖥️Connect with me</h1>
 <a href="https://github.com/Alissa0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alissa0106" height="30" width="40" /></a>
 </p>
 
-<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 1px solid #ffffff; padding-bottom: 10px;">📚Languages and Tools</h1>
+<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">📚Languages and Tools</h1>
 *   **中文**：Native
 *   **English**：IELTS 6.5
 
-<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 1px solid #ffffff; padding-bottom: 10px;">🛠️Programming & Statistical Analysis</h1>
+<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">🛠️Programming & Statistical Analysis</h1>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
