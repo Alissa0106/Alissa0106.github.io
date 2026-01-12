@@ -17,7 +17,7 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 5px; color: #ffffff; border-bottom: none; padding-bottom: 0;">🏥 Research on Hospital Informatization Construction in Beijing</h2>
-  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">*01/2024 - 05/2024*</p>
+  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">01/2024 - 05/2024</p>
   <ul style="font-size: 16px; color: #cccccc; line-height: 1.6; margin-left: 20px;">
     <li>Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.</li>
     <li>Cleaned and analyzed sample data with <strong style="color: #ffffff;">SPSS 26.0</strong> and <strong style="color: #ffffff;">Excel 2019</strong>.</li>
@@ -27,7 +27,7 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 5px; color: #ffffff; border-bottom: none; padding-bottom: 0;">📊 Big Health Data Sharing Mechanism Research</h2>
-  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">*01/2024 - 05/2024*</p>
+  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">01/2024 - 05/2024</p>
   <ul style="font-size: 16px; color: #cccccc; line-height: 1.6; margin-left: 20px;">
     <li>Conducted a comprehensive literature review of <strong style="color: #ffffff;">1200+ research papers</strong> on health data sharing.</li>
     <li>Organized <strong style="color: #ffffff;">400+ articles</strong> by themes: data sharing, cleaning, quality control, integration, and security.</li>
@@ -37,7 +37,7 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 5px; color: #ffffff; border-bottom: none; padding-bottom: 0;">🔒 Healthcare Data Exit Status in Clinical Research</h2>
-  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">*01/2024 - 05/2024*</p>
+  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">01/2024 - 05/2024</p>
   <ul style="font-size: 16px; color: #cccccc; line-height: 1.6; margin-left: 20px;">
     <li>Collaborated on designing a comprehensive map of domestic healthcare data export pathways.</li>
     <li>Coordinated with healthcare providers, data management teams, and policy makers.</li>
@@ -47,7 +47,7 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 5px; color: #ffffff; border-bottom: none; padding-bottom: 0;">🧑‍⚕️ Medical Case Coders Work Status Survey</h2>
-  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">*10/2022 - 05/2023*</p>
+  <p style="font-size: 16px; color: #999999; margin-bottom: 15px;">10/2022 - 05/2023</p>
   <ul style="font-size: 16px; color: #cccccc; line-height: 1.6; margin-left: 20px;">
     <li>Designed and conducted a comprehensive survey of medical coders across Beijing hospitals.</li>
     <li>Analyzed survey data using <strong style="color: #ffffff;">EpiData</strong> and <strong style="color: #ffffff;">SPSS</strong>, including descriptive and logistic regression analysis.</li>
