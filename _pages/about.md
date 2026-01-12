@@ -40,8 +40,8 @@ redirect_from:
 - Reviewed **50+ scholarly articles** to inform survey design and data interpretation.
 
 <p style="font-size: 32px; font-weight: bold;">🖥️Connect with me</p>
-<p align="left">
 ---
+<p align="left">
 <a href="https://github.com/Alissa0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alissa0106" height="30" width="40" /></a>
 </p>
 
@@ -51,8 +51,8 @@ redirect_from:
 *   **English**：IELTS 6.5
 
 <p style="font-size: 32px; font-weight: bold;">🛠️Programming & Statistical Analysis</p>
-<p align="left">
 ---
+<p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
