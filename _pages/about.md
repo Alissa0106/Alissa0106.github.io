@@ -13,34 +13,6 @@ redirect_from:
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
-<h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">📃 Research Experience</h1>
-<h2 style="font-size: 24px; font-weight: 600; margin-bottom: 15px; color: #ffffff;">🏥 Research on Hospital Informatization Construction in Beijing</h2>
-*01/2024 - 05/2024*
-- Analyzed 2 years of hospital informatization survey data from primary, secondary, and tertiary hospitals.
-- Cleaned and analyzed sample data with **SPSS 26.0** and **Excel 2019**.
-- Performed statistical analyses including **chi-square tests** and **Spearman's correlation** to identify key relationships.
-
-<h2 style="font-size: 24px; font-weight: 600; margin-bottom: 15px; color: #ffffff;">📊Big Health Data Sharing Mechanism Research</h2>
-*01/2024 - 05/2024*
-- Conducted a comprehensive literature review of **1200+ research pap4ers** on health data sharing.
-- Organized **400+ articles** by themes: data sharing, cleaning, quality control, integration, and security.
-- Drafted 4 meeting summaries and contributed to literature review sections of project publications.
-
-<h2 style="font-size: 24px; font-weight: 600; margin-bottom: 15px; color: #ffffff;">🔒Healthcare Data Exit Status in Clinical Research</h2>
-- Collaborated on designing a comprehensive map of domestic healthcare data export pathways.
-- Coordinated with healthcare providers, data management teams, and policy makers.
-- Prepared detailed reports highlighting key nodes, bottlenecks, and regulatory checkpoints.
-
-<h2 style="font-size: 24px; font-weight: 600; margin-bottom: 15px; color: #ffffff;">🧑‍⚕️Medical Case Coders Work Status Survey</h2>
-*10/2022 - 05/2023*
-- Designed and conducted a comprehensive survey of medical coders across Beijing hospitals.
-- Analyzed survey data using **EpiData** and **SPSS**, including descriptive and logistic regression analysis.
-- Reviewed **50+ scholarly articles** to inform survey design and data interpretation.
-
-
-
-
-
 <h1 style="font-size: 32px; font-weight: 700; margin-bottom: 20px; color: #ffffff; border-bottom: 1px solid #ffffff; padding-bottom: 10px;">📃 Research Experience</h1>
 
 <div style="margin-bottom: 30px;">
