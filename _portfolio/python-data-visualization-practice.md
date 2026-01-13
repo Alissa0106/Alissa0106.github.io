@@ -28,11 +28,6 @@ tech_stack:
 ## 核心实现
 ### 1.探索性数据分析（EDA）可视化<br><br>
 
-**年龄分布直方图**
-使用Seaborn绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势：
-
-**年龄分布直方图** <span style="font-size: 0.8em; color: #666;">使用 Seaborn 绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势</span> 
-
 **年龄分布直方图** <span style="font-size: 0.8em; color: #ffffff; background-color: #333333; padding: 2px 6px; border-radius: 4px;">使用 Seaborn 绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势</span>
 
 plt.figure(figsize=(8, 5))
@@ -46,8 +41,7 @@ plt.show()
 ![年龄分布直方图](/images/portfolio/python-data-visualization-practice/年龄分布直方图.png)
 ---
 
-**不同结局下实验室指标分布箱线图**
-创建 3x2 子图网格，绘制各实验室指标按患者结局分组的箱线图：
+**不同结局下实验室指标分布箱线图** <span style="font-size: 0.8em; color: #ffffff; background-color: #333333; padding: 2px 6px; border-radius: 4px;">创建 3x2 子图网格，绘制各实验室指标按患者结局分组的箱线图：</span>
 
 colname = ['age_month', 'lab_5237_min', 'lab_5227_min', 'lab_5225_range', 'lab_5235_max', 'lab_5257_min']
 
@@ -65,8 +59,7 @@ plt.show()
 
 ### 2.模型评估结果<br><br>
 
-**混淆矩阵热力图**
-**定义混淆矩阵绘制函数，用于评估分类模型性能：**
+**混淆矩阵热力图** <span style="font-size: 0.8em; color: #ffffff; background-color: #333333; padding: 2px 6px; border-radius: 4px;">定义混淆矩阵绘制函数，用于评估分类模型性能：</span>
 
 def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩阵'):
 
