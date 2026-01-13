@@ -9,7 +9,7 @@ redirect_from:
 
 🎓I am a first-year master's student at the School of Public Health, [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Baohua Liu](https://sph.pku.edu.cn/info/1542/4012.htm). My research interests include health management and big data analytics.
 
-📍You can find my CV here:（Kunyan Gao's Curriculum Vitae]assets/高堃焱简历.pdf）https://github.com/Alissa0106/Alissa0106.github.io/blob/master/assets/%E9%AB%98%E5%A0%83%E7%84%B1%E7%AE%80%E5%8E%86.pdf
+📍You can find my CV here:[Kunyan Gao's Curriculum Vitae](assets/高堃焱简历.pdf).
 
 📫[Email](gaokunyan25@stu.pku.edu.com)/[Github](https://alissa0106.github.io/)
 
