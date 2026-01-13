@@ -51,6 +51,7 @@ redirect_from:
   <ul style="font-size: 16px; color: #cccccc; line-height: 1.6; margin-left: 20px;">
     <li>Designed and conducted a comprehensive survey of medical coders across Beijing hospitals.</li>
     <li>Analyzed survey data using <strong style="color: #ffffff;">EpiData</strong> and <strong style="color: #ffffff;">SPSS</strong>, including descriptive and logistic regression analysis.</li>
+    <li>Reviewed <strong style="color: #ffffff;">100+ scholarly articles</strong> to inform survey design and data interpretation.</li>
   </ul>
 </div>
 
