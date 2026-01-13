@@ -83,6 +83,19 @@ def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩�
     
     plt.show()
 
+
+  def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩阵'): <br><br>
+    y_pred = (y_pred_prob > threshold).astype(int)
+    cm = confusion_matrix(y_true, y_pred)<br><br>
+    fig, ax = plt.subplots(figsize=(5, 4))
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', ax=ax)
+    ax.set_xlabel('预测标签')
+    ax.set_ylabel('真实标签')
+    ax.set_title(title)
+    ax.xaxis.set_ticklabels(['存活(0)', '死亡(1)'])
+    ax.yaxis.set_ticklabels(['存活(0)', '死亡(1)'])
+    plt.show()
+
 ### **调用函数（基于逻辑回归模型结果）**
 
 confusion_matrix_plot(y_true=y_test, y_pred_prob=y_pred_prob, threshold=0.5)
