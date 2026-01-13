@@ -33,6 +33,8 @@ tech_stack:
 
 **年龄分布直方图** <span style="font-size: 0.8em; color: #666;">使用 Seaborn 绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势</span> 
 
+**年龄分布直方图** <span style="font-size: 0.8em; color: #ffffff; background-color: #333333; padding: 2px 6px; border-radius: 4px;">使用 Seaborn 绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势</span>
+
 plt.figure(figsize=(8, 5))
 
 sns.histplot(data=picu_data, x='age_month', kde=True)
