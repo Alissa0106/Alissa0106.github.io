@@ -2,8 +2,8 @@
 title: "Analysis of Factors Influencing the Prevalence of Type 2 Diabetes Mellitus"
 collection: publications
 category: conference article
-#permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2024-08-29-paper-Analysis of Factors Influencing the Prevalence of Type 2 Diabetes Mellitus
+excerpt: 'This study analyzed factors influencing the prevalence of type 2 diabetes mellitus (T2DM) using health data from 1879 patients obtained from Kaggle. Methods including t-test, chi-square test, and logistic regression were employed to examine variables related to lifestyle, medical history, clinical measures, and symptoms. Significant factors associated with T2DM were identified as family history, hypertension, smoking, urinary frequency, excessive thirst, unexplained weight loss, fasting blood sugar, and HbA1c levels. Early intervention and personalized prevention strategies targeting these factors may help reduce the incidence of T2DM and related complications.'
 date: 2024-08-29
 venue: 'ICBioMed 2024'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
