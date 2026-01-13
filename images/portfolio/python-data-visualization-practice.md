@@ -65,6 +65,6 @@ def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩�
     ax.xaxis.set_ticklabels(['存活(0)', '死亡(1)'])
     ax.yaxis.set_ticklabels(['存活(0)', '死亡(1)'])
     plt.show()
-####**调用函数（基于逻辑回归模型结果）：**
+###**调用函数（基于逻辑回归模型结果）：**
 confusion_matrix_plot(y_true=y_test, y_pred_prob=y_pred_prob, threshold=0.5)
 ![混淆矩阵热力图](/images/portfolio/python-data-visualization-practice/混淆矩阵热力图.png)
