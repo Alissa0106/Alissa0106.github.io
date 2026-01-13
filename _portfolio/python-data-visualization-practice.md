@@ -3,7 +3,7 @@ title: "Python数据可视化实战"
 collection: portfolio
 type: "Data Analysis"
 permalink: /portfolio/python-data-visualization-practice
-date: 2025-01-13
+date: 2025-01-15
 excerpt: "使用Matplotlib和Seaborn进行数据可视化实战，掌握探索性数据分析与模型评估可视化方法"
 header:
   teaser: /images/portfolio/python-data-visualization-practice/age_distribution.png
