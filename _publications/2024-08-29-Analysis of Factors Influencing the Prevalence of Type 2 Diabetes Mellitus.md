@@ -7,8 +7,8 @@ excerpt: 'This study analyzed factors influencing the prevalence of type 2 diabe
 date: 2024-08-29
 venue: 'ICBioMed 2024'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '/files/Analysis of Factors Influencing the Prevalence of Type 2 Diabetes Mellitus.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'https://www.icbiomed.org/2024.html'
+citation: 'Kunyan Gao.(2024). "Analysis of Factors Influencing the Prevalence of Type 2 Diabetes Mellitus."<i>ICBioMed 2024</i>. 1(3).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
