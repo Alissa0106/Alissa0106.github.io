@@ -55,9 +55,6 @@ redirect_from:
 </div>
 
 
-
-
-
 <h1 style="font-size: 32px; margin-bottom: 20px; color: #ffffff; border-bottom: 2px solid #ffffff; padding-bottom: 10px;">🖥️Connect with me</h1>
 <a href="https://github.com/Alissa0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alissa0106" height="30" width="40" /></a>
 
