@@ -40,9 +40,9 @@ plt.title("年龄分布直方图")
 plt.show()
 
 ![年龄分布直方图](/images/portfolio/python-data-visualization-practice/年龄分布直方图.png)
+---
 
 **不同结局下实验室指标分布箱线图**
-
 #### **创建 3x2 子图网格，绘制各实验室指标按患者结局分组的箱线图：**
 
 colname = ['age_month', 'lab_5237_min', 'lab_5227_min', 'lab_5225_range', 'lab_5235_max', 'lab_5257_min']
@@ -57,12 +57,12 @@ plt.suptitle("不同结局下各实验室指标分布", fontsize=16)
 plt.show()
 
 ![不同结局下各实验室指标分布](/images/portfolio/python-data-visualization-practice/不同结局下各实验室指标分布.png)
+---
 
 ### 2.模型评估结果
 
 **混淆矩阵热力图**
-
-**定义混淆矩阵绘制函数，用于评估分类模型性能：**
+#### **定义混淆矩阵绘制函数，用于评估分类模型性能：**
 
 def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩阵'):
 
