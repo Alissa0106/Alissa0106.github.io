@@ -61,29 +61,6 @@ plt.show()
 
 **混淆矩阵热力图** <span style="font-size: 0.8em; color: #ffffff; background-color: #333333; padding: 2px 6px; border-radius: 4px;">定义混淆矩阵绘制函数，用于评估分类模型性能：</span>
 
-def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩阵'):
-
-    y_pred = (y_pred_prob > threshold).astype(int)
-    
-    cm = confusion_matrix(y_true, y_pred)
-    
-    fig, ax = plt.subplots(figsize=(5, 4))
-    
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', ax=ax)
-    
-    ax.set_xlabel('预测标签')
-    
-    ax.set_ylabel('真实标签')
-    
-    ax.set_title(title)
-    
-    ax.xaxis.set_ticklabels(['存活(0)', '死亡(1)'])
-    
-    ax.yaxis.set_ticklabels(['存活(0)', '死亡(1)'])
-    
-    plt.show()
-
-
   def confusion_matrix_plot(y_true, y_pred_prob, threshold=0.5, title='混淆矩阵'): <br><br>
     y_pred = (y_pred_prob > threshold).astype(int)<br><br>
     cm = confusion_matrix(y_true, y_pred)<br><br>
