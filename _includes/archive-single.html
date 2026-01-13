@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
         {% if post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ ICBioMed 2024 }}</i>, {{ post.date | default: "2024-08-29" | date: "%Y" }} </p>
     {% endif %}
 
         {% if post.citation and post.paperurl %}
