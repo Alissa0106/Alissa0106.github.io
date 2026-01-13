@@ -30,10 +30,15 @@ tech_stack:
 ### 探索性数据分析（EDA）可视化
 ### **年龄分布直方图**
 **使用Seaborn绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势：** 
+
 ```python
+
 plt.figure(figsize=(8, 5))
+
 sns.histplot(data=picu_data, x='age_month', kde=True)
+
 plt.title("年龄分布直方图")
+
 plt.show()
 ![年龄分布直方图](/images/portfolio/python-data-visualization-practice/年龄分布直方图.png)
 
