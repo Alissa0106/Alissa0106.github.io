@@ -27,8 +27,10 @@ tech_stack:
 
 ## 核心实现
 ### 1.探索性数据分析（EDA）可视化
+
 **年龄分布直方图**
-使用Seaborn绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势：
+
+**使用Seaborn绘制年龄分布直方图，同时显示核密度估计曲线以观察分布趋势：**
 
 plt.figure(figsize=(8, 5))
 
@@ -41,6 +43,7 @@ plt.show()
 ![年龄分布直方图](/images/portfolio/python-data-visualization-practice/年龄分布直方图.png)
 
 **不同结局下实验室指标分布箱线图**
+
 **创建 3x2 子图网格，绘制各实验室指标按患者结局分组的箱线图：**
 
 colname = ['age_month', 'lab_5237_min', 'lab_5227_min', 'lab_5225_range', 'lab_5235_max', 'lab_5257_min']
@@ -57,6 +60,7 @@ plt.show()
 ![不同结局下各实验室指标分布](/images/portfolio/python-data-visualization-practice/不同结局下各实验室指标分布.png)
 
 ### 2.模型评估结果
+
 **混淆矩阵热力图**
 **定义混淆矩阵绘制函数，用于评估分类模型性能：**
 
